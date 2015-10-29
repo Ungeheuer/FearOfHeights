@@ -1,40 +1,32 @@
 fileFormatVersion: 2
-guid: 3c93caf752ff15540a0786215e148661
-timeCreated: 1446088843
+guid: 0ffd1fdf08d14364a8d252abc6ed6ba2
+timeCreated: 1444975932
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Box001
-    100002: Box002
-    100004: Box003
-    100006: //RootNode
-    100008: Plane001
-    100010: Plane001_MeshPart0
-    100012: Plane001_MeshPart1
-    400000: Box001
-    400002: Box002
-    400004: Box003
-    400006: //RootNode
-    400008: Plane001
-    400010: Plane001_MeshPart0
-    400012: Plane001_MeshPart1
-    2300000: Box001
-    2300002: Box002
-    2300004: Box003
-    2300006: Plane001_MeshPart0
-    2300008: Plane001_MeshPart1
-    3300000: Box001
-    3300002: Box002
-    3300004: Box003
-    3300006: Plane001_MeshPart0
-    3300008: Plane001_MeshPart1
-    4300000: Box001
-    4300002: Box002
-    4300004: Box003
-    4300006: Plane001_MeshPart0
-    4300008: Plane001_MeshPart1
-    9500000: //RootNode
+    100000: //RootNode
+    100002: glas
+    100004: platte_hinten
+    100006: platte_vorn
+    100008: rahmen
+    400000: //RootNode
+    400002: glas
+    400004: platte_hinten
+    400006: platte_vorn
+    400008: rahmen
+    2300000: glas
+    2300002: platte_hinten
+    2300004: platte_vorn
+    2300006: rahmen
+    3300000: glas
+    3300002: platte_hinten
+    3300004: platte_vorn
+    3300006: rahmen
+    4300000: glas
+    4300002: platte_hinten
+    4300004: platte_vorn
+    4300006: rahmen
   materials:
     importMaterials: 1
     materialName: 0
@@ -44,10 +36,6 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
-    animationImportErrors: 
-    animationImportWarnings: 
-    animationRetargetingWarnings: 
-    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -91,10 +79,8 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
-  humanoidOversampling: 1
+  animationType: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

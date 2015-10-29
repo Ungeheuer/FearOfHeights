@@ -1,30 +1,15 @@
 fileFormatVersion: 2
-guid: c5fba14918f8eaa4291f88859467ffb1
-timeCreated: 1446088848
+guid: 5c2d5efd264b55442b96313a12f787c5
+timeCreated: 1444977335
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: Box003
-    100002: //RootNode
-    100004: Plane001
-    100006: Plane001_MeshPart0
-    100008: Plane001_MeshPart1
-    400000: Box003
-    400002: //RootNode
-    400004: Plane001
-    400006: Plane001_MeshPart0
-    400008: Plane001_MeshPart1
-    2300000: Box003
-    2300002: Plane001_MeshPart0
-    2300004: Plane001_MeshPart1
-    3300000: Box003
-    3300002: Plane001_MeshPart0
-    3300004: Plane001_MeshPart1
-    4300000: Plane001_MeshPart0
-    4300002: Plane001_MeshPart1
-    4300004: Box003
-    9500000: //RootNode
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Plane
   materials:
     importMaterials: 1
     materialName: 0
@@ -34,10 +19,6 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
-    animationImportErrors: 
-    animationImportWarnings: 
-    animationRetargetingWarnings: 
-    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -81,10 +62,8 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
-  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
